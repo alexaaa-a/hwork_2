@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">homework_2</string>
+    <string name="profiletext">Profile</string>
+    <string name="settingstext">Settings</string>
+    <string name="homescreentext">Home</string>
+    <string name="productstext">Products</string>
+    <string name="ratingtext">Rating</string>
+    <string name="action">Action</string>
+    <string name="youraction">Your Action</string>
+    <string name="send">Send</string>
+    <string name="title_activity_rating_fragment">RatingFragment</string>
+</resources>

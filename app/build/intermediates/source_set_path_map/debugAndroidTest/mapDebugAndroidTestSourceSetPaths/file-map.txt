@@ -1,0 +1,5 @@
+com.first.hw_2.test.app-core-1.6.1-0 C:\Users\alexa\.gradle\caches\transforms-4\cda33ee4406506334d5909c3916d13dc\transformed\core-1.6.1\res
+com.first.hw_2.test.app-androidTest-1 C:\Users\alexa\AndroidStudioProjects\hw_2\app\build\generated\res\resValues\androidTest\debug
+com.first.hw_2.test.app-mergeDebugAndroidTestResources-2 C:\Users\alexa\AndroidStudioProjects\hw_2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.first.hw_2.test.app-mergeDebugAndroidTestResources-3 C:\Users\alexa\AndroidStudioProjects\hw_2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.first.hw_2.test.app-debugAndroidTest-4 C:\Users\alexa\AndroidStudioProjects\hw_2\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

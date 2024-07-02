@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="button">#3A88C5</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="action">Action</string>
+    <string name="app_name">homework_2</string>
+    <string name="homescreentext">Home</string>
+    <string name="productstext">Products</string>
+    <string name="profiletext">Profile</string>
+    <string name="ratingtext">Rating</string>
+    <string name="send">Send</string>
+    <string name="settingstext">Settings</string>
+    <string name="title_activity_rating_fragment">RatingFragment</string>
+    <string name="youraction">Your Action</string>
+    <style name="AppTitle">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="Base.Theme.Ex2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Ex2" parent="Base.Theme.Ex2"/>
+</resources>

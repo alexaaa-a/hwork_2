@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-mergeDebugResources-69:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "com.first.homework_2.app-mergeDebugResources-69:/layout/fragment_home.xml",
+        "source": "com.first.homework_2.app-main-72:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-mergeDebugResources-69:\\layout\\fragment_promocode.xml",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_promocode.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-mergeDebugResources-69:\\layout\\fragment_films.xml",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_films.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-mergeDebugResources-69:\\layout\\fragment_reviews.xml",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_reviews.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-mergeDebugResources-69:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-mergeDebugResources-69:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "com.first.homework_2.app-mergeDebugResources-69:/layout/fragment_products.xml",
+        "source": "com.first.homework_2.app-main-72:/layout/fragment_products.xml"
+    },
+    {
+        "merged": "com.first.homework_2.app-mergeDebugResources-69:/layout/fragment_rating.xml",
+        "source": "com.first.homework_2.app-main-72:/layout/fragment_rating.xml"
+    },
+    {
+        "merged": "com.first.homework_2.app-mergeDebugResources-69:/layout/fragment_action.xml",
+        "source": "com.first.homework_2.app-main-72:/layout/fragment_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-mergeDebugResources-69:\\layout\\activity_fragment_main.xml",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\activity_fragment_main.xml"
+    }
+]
