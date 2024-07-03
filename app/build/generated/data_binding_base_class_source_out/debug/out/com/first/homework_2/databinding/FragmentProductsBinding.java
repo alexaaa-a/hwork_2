@@ -8,6 +8,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.first.homework_2.R;
@@ -22,9 +23,14 @@ public final class FragmentProductsBinding implements ViewBinding {
   @NonNull
   public final TextView products;
 
-  private FragmentProductsBinding(@NonNull ConstraintLayout rootView, @NonNull TextView products) {
+  @NonNull
+  public final RecyclerView rvProducts;
+
+  private FragmentProductsBinding(@NonNull ConstraintLayout rootView, @NonNull TextView products,
+      @NonNull RecyclerView rvProducts) {
     this.rootView = rootView;
     this.products = products;
+    this.rvProducts = rvProducts;
   }
 
   @Override
@@ -60,7 +66,13 @@ public final class FragmentProductsBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentProductsBinding((ConstraintLayout) rootView, products);
+      id = R.id.rvProducts;
+      RecyclerView rvProducts = ViewBindings.findChildViewById(rootView, id);
+      if (rvProducts == null) {
+        break missingId;
+      }
+
+      return new FragmentProductsBinding((ConstraintLayout) rootView, products, rvProducts);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

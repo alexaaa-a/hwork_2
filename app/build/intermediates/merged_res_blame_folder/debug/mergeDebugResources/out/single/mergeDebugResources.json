@@ -1,35 +1,43 @@
 [
     {
-        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\drawable\\ic_launcher_foreground.xml"
+        "merged": "com.first.homework_2.app-debug-70:/drawable_img.png.flat",
+        "source": "com.first.homework_2.app-main-72:/drawable/img.png"
+    },
+    {
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\layout_item_product1.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\item_product1.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_home.xml"
     },
     {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.first.homework_2.app-debug-70:/layout_fragment_rating.xml.flat",
-        "source": "com.first.homework_2.app-main-72:/layout/fragment_rating.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\layout_fragment_reviews.xml.flat",
-        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_reviews.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\drawable_ic_products.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\drawable\\ic_products.xml"
     },
     {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\menu_menu_main.xml.flat",
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\menu\\menu_main.xml"
     },
     {
-        "merged": "com.first.homework_2.app-debug-70:/drawable_ic_home.xml.flat",
-        "source": "com.first.homework_2.app-main-72:/drawable/ic_home.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\drawable\\ic_profile.xml"
     },
     {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.first.homework_2.app-debug-70:/navigation_main_graph.xml.flat",
-        "source": "com.first.homework_2.app-main-72:/navigation/main_graph.xml"
+        "merged": "com.first.homework_2.app-debug-70:/drawable_ic_back.png.flat",
+        "source": "com.first.homework_2.app-main-72:/drawable/ic_back.png"
     },
     {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\mipmap-mdpi_ic_launcher.webp.flat",
@@ -40,28 +48,16 @@
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\drawable_ic_star_rate.xml.flat",
-        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\drawable\\ic_star_rate.xml"
-    },
-    {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\layout_fragment_profile.xml.flat",
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_profile.xml"
-    },
-    {
-        "merged": "com.first.homework_2.app-debug-70:/drawable_ic_profile.xml.flat",
-        "source": "com.first.homework_2.app-main-72:/drawable/ic_profile.xml"
-    },
-    {
-        "merged": "com.first.homework_2.app-debug-70:/menu_menu_main.xml.flat",
-        "source": "com.first.homework_2.app-main-72:/menu/menu_main.xml"
     },
     {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\drawable_ic_person.xml.flat",
-        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\drawable\\ic_person.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\layout_fragment_products.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_products.xml"
     },
     {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\mipmap-xhdpi_ic_launcher.webp.flat",
@@ -80,10 +76,6 @@
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.first.homework_2.app-debug-70:/drawable_ic_products.xml.flat",
-        "source": "com.first.homework_2.app-main-72:/drawable/ic_products.xml"
-    },
-    {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\xml_data_extraction_rules.xml.flat",
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\xml\\data_extraction_rules.xml"
     },
@@ -92,24 +84,8 @@
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\layout_fragment_promocode.xml.flat",
-        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_promocode.xml"
-    },
-    {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\drawable_ic_movie.xml.flat",
-        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\drawable\\ic_movie.xml"
-    },
-    {
-        "merged": "com.first.homework_2.app-debug-70:/layout_fragment_action.xml.flat",
-        "source": "com.first.homework_2.app-main-72:/layout/fragment_action.xml"
-    },
-    {
-        "merged": "com.first.homework_2.app-debug-70:/drawable_ic_rating.xml.flat",
-        "source": "com.first.homework_2.app-main-72:/drawable/ic_rating.xml"
     },
     {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\layout_activity_fragment_main.xml.flat",
@@ -124,6 +100,10 @@
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\navigation\\main_graph.xml"
     },
     {
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\layout_fragment_rating.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_rating.xml"
+    },
+    {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
@@ -132,31 +112,31 @@
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\layout_fragment_main.xml.flat",
-        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_main.xml"
-    },
-    {
-        "merged": "com.first.homework_2.app-debug-70:/layout_fragment_products.xml.flat",
-        "source": "com.first.homework_2.app-main-72:/layout/fragment_products.xml"
-    },
-    {
-        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\layout_fragment_films.xml.flat",
-        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_films.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\drawable_ic_rating.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\drawable\\ic_rating.xml"
     },
     {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\layout_fragment_settings.xml.flat",
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_settings.xml"
     },
     {
-        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\drawable_ic_main.xml.flat",
-        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\drawable\\ic_main.xml"
+        "merged": "com.first.homework_2.app-debug-70:/layout_activity_cheese.xml.flat",
+        "source": "com.first.homework_2.app-main-72:/layout/activity_cheese.xml"
     },
     {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.first.homework_2.app-debug-70:/layout_fragment_home.xml.flat",
-        "source": "com.first.homework_2.app-main-72:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\drawable_cheese.png.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\drawable\\cheese.png"
+    },
+    {
+        "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-debug-70:\\layout_fragment_action.xml.flat",
+        "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.first.homework_2.app-main-72:\\layout\\fragment_action.xml"
     }
 ]

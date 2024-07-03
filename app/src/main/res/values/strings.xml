@@ -9,4 +9,7 @@
     <string name="youraction">Your Action</string>
     <string name="send">Send</string>
     <string name="title_activity_rating_fragment">RatingFragment</string>
+    <string name="title_activity_cheese">CheeseActivity</string>
+    <string name="short_description">Milk products</string>
+    <string name="back_button_desc">back</string>
 </resources>

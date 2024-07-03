@@ -4,7 +4,7 @@
             "outputFile": "com.first.homework_2.app-mergeDebugResources-68:/values-h360dp-land-v13/values-h360dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alexa\\.gradle\\caches\\transforms-4\\cfcd412089ec0f48a3dfd65a04f013c7\\transformed\\material-1.12.0\\res\\values-h360dp-land-v13\\values-h360dp-land-v13.xml",
+                    "source": "C:\\Users\\alexa\\.gradle\\caches\\transforms-4\\ff4ea47373368d1db070919d103eaad2\\transformed\\material-1.12.0\\res\\values-h360dp-land-v13\\values-h360dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

@@ -4,7 +4,7 @@
             "outputFile": "com.first.homework_2.app-mergeDebugResources-68:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alexa\\.gradle\\caches\\transforms-4\\2e7c3d93d84c4743a474e59b712818b2\\transformed\\appcompat-1.7.0\\res\\values-v22\\values-v22.xml",
+                    "source": "C:\\Users\\alexa\\.gradle\\caches\\transforms-4\\10cfa34dbdcb5540f963b5739c9034ba\\transformed\\appcompat-1.7.0\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",

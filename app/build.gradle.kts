@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
+    id("com.google.devtools.ksp")
 }
 
 
@@ -78,4 +79,5 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
     val glideVersion = "4.16.0"
     implementation(libs.glide)
+    implementation(libs.ksp)
 }

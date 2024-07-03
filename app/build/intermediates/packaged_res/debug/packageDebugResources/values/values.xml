@@ -5,12 +5,15 @@
     <color name="white">#FFFFFFFF</color>
     <string name="action">Action</string>
     <string name="app_name">homework_2</string>
+    <string name="back_button_desc">back</string>
     <string name="homescreentext">Home</string>
     <string name="productstext">Products</string>
     <string name="profiletext">Profile</string>
     <string name="ratingtext">Rating</string>
     <string name="send">Send</string>
     <string name="settingstext">Settings</string>
+    <string name="short_description">Milk products</string>
+    <string name="title_activity_cheese">CheeseActivity</string>
     <string name="title_activity_rating_fragment">RatingFragment</string>
     <string name="youraction">Your Action</string>
     <style name="AppTitle">
